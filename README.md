@@ -2,4 +2,5 @@
 And add a first new row.
 #Contributors
 -Pesho dev1
--Maria de2
+-Maria dev2
+-Gichka dev3
